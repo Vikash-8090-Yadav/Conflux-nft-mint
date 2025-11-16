@@ -2,6 +2,10 @@
 
 A complete NFT (Non-Fungible Token) implementation on Conflux Network with IPFS metadata storage. This project is adapted from ETH Scaffold 2 and provides a full-stack solution for minting, viewing, and transferring NFTs on the Conflux blockchain.
 
+
+Demo Video: https://youtu.be/2oVW_LxedFo
+
+
 ## 📖 Overview
 
 This project demonstrates how to build and deploy NFTs on Conflux Network by:
@@ -217,22 +221,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 🆘 Support
-
-If you have any questions or need help:
-- Check the [Conflux Discord](https://discord.gg/conflux)
-- Open an issue on GitHub
-- Review the [Conflux Documentation](https://docs.confluxnetwork.org/)
-
-## 🙏 Acknowledgments
-
-- Adapted from [scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2)
-- Built on [Conflux Network](https://confluxnetwork.org/)
-- Uses [OpenZeppelin](https://www.openzeppelin.com/) contracts
-
----
-
-**Repository**: [https://github.com/Vikash-8090-Yadav/Conflux-nft-mint](https://github.com/Vikash-8090-Yadav/Conflux-nft-mint)
-
-Made with ❤️ for the Conflux community
